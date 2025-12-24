@@ -9,10 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type":"module",
+  "type": "module",
   "description": "",
   "dependencies": {
     "dotenv": "^17.2.3",
+    "ecom-new": "file:..",
     "express": "^5.2.1"
   }
 }
